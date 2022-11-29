@@ -1,6 +1,6 @@
 # Project Manager
 
-This project management application was developed from scratch during a one month internship at [MC Architectes](https://mc-architectes.com/) for their needs. It is free for anyone to use, but it is served as is, and will not receive any further updates.
+This project management application was developed from scratch during a one month internship at [MC Architectes](https://mc-architectes.com/) in July 2021 for their needs. It is free for anyone to use, but it is served as is, and will not receive any further updates.
 
 The objective of this application is that every employee can enter at the end of the day the time spent on each mission of each project, so that the total ressources allocated to each mission of a project can be readjusted according to the time worked.
 
